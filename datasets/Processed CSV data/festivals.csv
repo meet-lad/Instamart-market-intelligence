@@ -1,0 +1,962 @@
+﻿E001,Event,Rainy Season Preparedness,15/05/2026,All India,All Out Refill,High,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Odomos,High,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Maggi,High,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Knorr Soup,High,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Taj Mahal Tea,High,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Pakoda Mix,High,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Dettol Handwash,High,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Umbrellas,Medium,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Crocin/Paracetamol,High,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Vicks VapoRub,Medium,1
+E001,Event,Rainy Season Preparedness,15/05/2026,All India,Mortein Spray,Medium,1
+E002,Event,School Reopening Season,01/06/2026,All India,Nescafé,High,0
+E002,Event,School Reopening Season,01/06/2026,All India,Maggi,High,0
+E002,Event,School Reopening Season,01/06/2026,All India,Classmate Notebooks,High,0
+E002,Event,School Reopening Season,01/06/2026,All India,Red Bull,High,0
+E002,Event,School Reopening Season,01/06/2026,All India,Oreo,Medium,0
+E002,Event,School Reopening Season,01/06/2026,All India,Reynolds Pens,High,0
+E002,Event,School Reopening Season,01/06/2026,All India,Good Day,Medium,0
+E002,Event,School Reopening Season,01/06/2026,All India,Bru,Medium,0
+E002,Event,School Reopening Season,01/06/2026,All India,Highlighters,Medium,0
+E002,Event,School Reopening Season,01/06/2026,All India,Milton Water Bottles,Medium,0
+E002,Event,School Reopening Season,01/06/2026,All India,Monster Energy,Low,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,Ferrero Rocher,High,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,Dove Body Wash,Medium,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,Hershey's Syrup,Medium,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,Magnum Ice Cream,High,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,Baskin Robbins,Medium,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,"Exotic Fruits (Kiwi, Dragonfruit)",Low,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,L'Oreal Shampoo,Medium,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,Nutella,High,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,Red Bull,Medium,0
+E003,Event,Salary Credit Cycle,01/06/2026,All India,Pringles,Medium,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Lay's,High,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Coca-Cola,High,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Red Bull,High,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Doritos,High,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Frozen Pizza,High,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Popcorn,High,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Thums Up,Medium,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,McCain Smiles,Medium,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Amul Ice Cream,Medium,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Kurkure,Medium,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Sprite,Medium,0
+E004,Event,FIFA World Cup Tournament Window,11/06/2026,Metro Cities,Bikaneri Bhujia,Low,0
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Lay's,High,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Coca-Cola,High,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Red Bull,High,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Doritos,High,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Frozen Pizza,High,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Popcorn,High,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Thums Up,Medium,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,McCain Smiles,Medium,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Amul Ice Cream,Medium,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Kurkure,Medium,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Sprite,Medium,1
+E005,Event,UEFA Euro Tournament Window,12/06/2026,Metro Cities,Bikaneri Bhujia,Low,1
+E006,Event,College Admissions Season,15/06/2026,All India,Nescafé,High,0
+E006,Event,College Admissions Season,15/06/2026,All India,Maggi,High,0
+E006,Event,College Admissions Season,15/06/2026,All India,Classmate Notebooks,High,0
+E006,Event,College Admissions Season,15/06/2026,All India,Red Bull,High,0
+E006,Event,College Admissions Season,15/06/2026,All India,Oreo,Medium,0
+E006,Event,College Admissions Season,15/06/2026,All India,Reynolds Pens,High,0
+E006,Event,College Admissions Season,15/06/2026,All India,Good Day,Medium,0
+E006,Event,College Admissions Season,15/06/2026,All India,Bru,Medium,0
+E006,Event,College Admissions Season,15/06/2026,All India,Highlighters,Medium,0
+E006,Event,College Admissions Season,15/06/2026,All India,Milton Water Bottles,Medium,0
+E006,Event,College Admissions Season,15/06/2026,All India,Monster Energy,Low,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,All Out Refill,High,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Odomos,High,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Maggi,High,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Knorr Soup,High,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Taj Mahal Tea,High,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Pakoda Mix,High,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Dettol Handwash,High,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Umbrellas,Medium,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Crocin/Paracetamol,High,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Vicks VapoRub,Medium,0
+E007,Event,Monsoon Arrival,15/06/2026,All India,Mortein Spray,Medium,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Maggi,High,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Parle-G,High,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Aashirvaad Atta 1kg,High,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Tata Salt,High,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Taaza Tea,Medium,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Eggs,High,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Milk,High,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Onion,High,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Potato,High,0
+E008,Event,Month-End Budget Crunch,25/06/2026,All India,Tomato,High,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Nescafé,High,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Maggi,High,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Classmate Notebooks,High,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Red Bull,High,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Oreo,Medium,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Reynolds Pens,High,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Good Day,Medium,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Bru,Medium,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Highlighters,Medium,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Milton Water Bottles,Medium,0
+E009,Event,Hostel Move-in Season,01/07/2026,All India,Monster Energy,Low,0
+E010,Event,Peak Monsoon,01/07/2026,All India,All Out Refill,High,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Odomos,High,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Maggi,High,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Knorr Soup,High,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Taj Mahal Tea,High,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Pakoda Mix,High,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Dettol Handwash,High,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Umbrellas,Medium,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Crocin/Paracetamol,High,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Vicks VapoRub,Medium,0
+E010,Event,Peak Monsoon,01/07/2026,All India,Mortein Spray,Medium,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,All Out Refill,High,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Odomos,High,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Maggi,High,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Knorr Soup,High,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Taj Mahal Tea,High,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Pakoda Mix,High,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Dettol Handwash,High,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Umbrellas,Medium,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Crocin/Paracetamol,High,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Vicks VapoRub,Medium,0
+E011,Event,Dengue/Malaria Season,01/07/2026,All India,Mortein Spray,Medium,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,All Out Refill,High,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Odomos,High,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Maggi,High,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Knorr Soup,High,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Taj Mahal Tea,High,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Pakoda Mix,High,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Dettol Handwash,High,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Umbrellas,Medium,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Crocin/Paracetamol,High,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Vicks VapoRub,Medium,0
+E012,Event,Mosquito Prevention Season,01/07/2026,All India,Mortein Spray,Medium,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Lay's,High,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Coca-Cola,High,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Red Bull,High,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Doritos,High,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Frozen Pizza,High,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Popcorn,High,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Thums Up,Medium,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,McCain Smiles,Medium,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Amul Ice Cream,Medium,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Kurkure,Medium,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Sprite,Medium,0
+E013,Event,Olympics Tournament Window,01/07/2026,Metro Cities,Bikaneri Bhujia,Low,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Coca-Cola,Medium,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Lay's,Medium,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Maggi,Medium,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Red Bull,Low,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Amul Ice Cream,Medium,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Cadbury Dairy Milk,Medium,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Nescafé,Low,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Frozen Pizza,Low,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Electral ORS,Low,0
+E014,Event,Kanwar Yatra Season,01/07/2026,North India,Dettol Handwash,Low,0
+E015,Festival,Rath Yatra,12/07/2026,East India,Sweets,High,1
+E015,Festival,Rath Yatra,12/07/2026,East India,Pooja Items,High,1
+E015,Festival,Rath Yatra,12/07/2026,East India,Incense Sticks,Medium,1
+E015,Festival,Rath Yatra,12/07/2026,East India,Flowers,High,1
+E015,Festival,Rath Yatra,12/07/2026,East India,Fresh Fruits,Medium,1
+E015,Festival,Rath Yatra,12/07/2026,East India,Coconuts,Medium,1
+E015,Festival,Rath Yatra,12/07/2026,East India,Ghee,Medium,1
+E015,Festival,Rath Yatra,12/07/2026,East India,Camphor,Medium,1
+E015,Festival,Rath Yatra,12/07/2026,East India,Dry Fruits,Medium,1
+E015,Festival,Rath Yatra,12/07/2026,East India,Cadbury Celebrations,Medium,1
+E016,Event,Freshers Season,15/07/2026,All India,Coca-Cola,Medium,0
+E016,Event,Freshers Season,15/07/2026,All India,Lay's,Medium,0
+E016,Event,Freshers Season,15/07/2026,All India,Maggi,Medium,0
+E016,Event,Freshers Season,15/07/2026,All India,Red Bull,Low,0
+E016,Event,Freshers Season,15/07/2026,All India,Amul Ice Cream,Medium,0
+E016,Event,Freshers Season,15/07/2026,All India,Cadbury Dairy Milk,Medium,0
+E016,Event,Freshers Season,15/07/2026,All India,Nescafé,Low,0
+E016,Event,Freshers Season,15/07/2026,All India,Frozen Pizza,Low,0
+E016,Event,Freshers Season,15/07/2026,All India,Electral ORS,Low,0
+E016,Event,Freshers Season,15/07/2026,All India,Dettol Handwash,Low,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Sweets,High,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Pooja Items,High,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Incense Sticks,Medium,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Flowers,High,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Fresh Fruits,Medium,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Coconuts,Medium,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Ghee,Medium,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Camphor,Medium,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Dry Fruits,Medium,0
+E017,Festival,Guru Purnima,29/07/2026,All India,Cadbury Celebrations,Medium,0
+E018,Event,Viral Fever Season,01/08/2026,All India,All Out Refill,High,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Odomos,High,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Maggi,High,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Knorr Soup,High,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Taj Mahal Tea,High,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Pakoda Mix,High,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Dettol Handwash,High,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Umbrellas,Medium,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Crocin/Paracetamol,High,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Vicks VapoRub,Medium,1
+E018,Event,Viral Fever Season,01/08/2026,All India,Mortein Spray,Medium,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Coca-Cola,Medium,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Lay's,Medium,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Maggi,Medium,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Red Bull,Low,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Amul Ice Cream,Medium,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Cadbury Dairy Milk,Medium,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Nescafé,Low,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Frozen Pizza,Low,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Electral ORS,Low,1
+E019,Event,Independence Day Long Weekend,15/08/2026,All India,Dettol Handwash,Low,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Rakhis,High,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Sweets,High,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Cadbury Celebrations,High,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Dry Fruits,Medium,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Roli Chawal,High,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Pooja Thali,Medium,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Gift Hampers,High,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Haldiram's Sweets,Medium,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Ferrero Rocher,Medium,1
+E020,Festival,Raksha Bandhan,28/08/2026,All India,Mehndi Cones,Low,1
+E021,Festival,Onam,28/08/2026,South India,Sweets,High,1
+E021,Festival,Onam,28/08/2026,South India,Pooja Items,High,1
+E021,Festival,Onam,28/08/2026,South India,Incense Sticks,Medium,1
+E021,Festival,Onam,28/08/2026,South India,Flowers,High,1
+E021,Festival,Onam,28/08/2026,South India,Fresh Fruits,Medium,1
+E021,Festival,Onam,28/08/2026,South India,Coconuts,Medium,1
+E021,Festival,Onam,28/08/2026,South India,Ghee,Medium,1
+E021,Festival,Onam,28/08/2026,South India,Camphor,Medium,1
+E021,Festival,Onam,28/08/2026,South India,Dry Fruits,Medium,1
+E021,Festival,Onam,28/08/2026,South India,Cadbury Celebrations,Medium,1
+E022,Festival,Janmashtami,03/09/2026,All India,Sweets,High,0
+E022,Festival,Janmashtami,03/09/2026,All India,Pooja Items,High,0
+E022,Festival,Janmashtami,03/09/2026,All India,Incense Sticks,Medium,0
+E022,Festival,Janmashtami,03/09/2026,All India,Flowers,High,0
+E022,Festival,Janmashtami,03/09/2026,All India,Fresh Fruits,Medium,0
+E022,Festival,Janmashtami,03/09/2026,All India,Coconuts,Medium,0
+E022,Festival,Janmashtami,03/09/2026,All India,Ghee,Medium,0
+E022,Festival,Janmashtami,03/09/2026,All India,Camphor,Medium,0
+E022,Festival,Janmashtami,03/09/2026,All India,Dry Fruits,Medium,0
+E022,Festival,Janmashtami,03/09/2026,All India,Cadbury Celebrations,Medium,0
+E023,Event,Teacher's Day,05/09/2026,All India,Coca-Cola,Medium,1
+E023,Event,Teacher's Day,05/09/2026,All India,Lay's,Medium,1
+E023,Event,Teacher's Day,05/09/2026,All India,Maggi,Medium,1
+E023,Event,Teacher's Day,05/09/2026,All India,Red Bull,Low,1
+E023,Event,Teacher's Day,05/09/2026,All India,Amul Ice Cream,Medium,1
+E023,Event,Teacher's Day,05/09/2026,All India,Cadbury Dairy Milk,Medium,1
+E023,Event,Teacher's Day,05/09/2026,All India,Nescafé,Low,1
+E023,Event,Teacher's Day,05/09/2026,All India,Frozen Pizza,Low,1
+E023,Event,Teacher's Day,05/09/2026,All India,Electral ORS,Low,1
+E023,Event,Teacher's Day,05/09/2026,All India,Dettol Handwash,Low,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Modaks,High,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Marigold Flowers,High,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Coconuts,High,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Incense Sticks,High,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Decorative Items,Medium,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Pooja Thali,Medium,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Camphor,High,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Durva Grass,High,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Laddoos,High,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Ghee,Medium,1
+E024,Festival,Ganesh Chaturthi,12/09/2026,West India,Fresh Fruits,Medium,1
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Coca-Cola,Medium,0
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Lay's,Medium,0
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Maggi,Medium,0
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Red Bull,Low,0
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Amul Ice Cream,Medium,0
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Cadbury Dairy Milk,Medium,0
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Nescafé,Low,0
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Frozen Pizza,Low,0
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Electral ORS,Low,0
+E025,Event,Regional Fair and Mela Season,01/10/2026,All India,Dettol Handwash,Low,0
+E026,Festival,Navratri Begins,11/10/2026,West India,Fasting Food (Sabudana),High,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Makhana,High,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Dandiya Sticks,High,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Sweets,High,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Marigold Flowers,High,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Pooja Items,High,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Decorative Lights,Medium,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Fresh Fruits,Medium,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Safety Pins,Medium,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Red Bull,High,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Ghee,High,1
+E026,Festival,Navratri Begins,11/10/2026,West India,Sindoor,Medium,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Coca-Cola,Medium,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Lay's,Medium,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Maggi,Medium,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Red Bull,Low,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Amul Ice Cream,Medium,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Cadbury Dairy Milk,Medium,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Nescafé,Low,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Frozen Pizza,Low,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Electral ORS,Low,1
+E027,Event,Navratri Garba Season,11/10/2026,West India,Dettol Handwash,Low,1
+E028,Festival,Durga Puja,16/10/2026,East India,Fasting Food (Sabudana),High,1
+E028,Festival,Durga Puja,16/10/2026,East India,Makhana,High,1
+E028,Festival,Durga Puja,16/10/2026,East India,Dandiya Sticks,High,1
+E028,Festival,Durga Puja,16/10/2026,East India,Sweets,High,1
+E028,Festival,Durga Puja,16/10/2026,East India,Marigold Flowers,High,1
+E028,Festival,Durga Puja,16/10/2026,East India,Pooja Items,High,1
+E028,Festival,Durga Puja,16/10/2026,East India,Decorative Lights,Medium,1
+E028,Festival,Durga Puja,16/10/2026,East India,Fresh Fruits,Medium,1
+E028,Festival,Durga Puja,16/10/2026,East India,Safety Pins,Medium,1
+E028,Festival,Durga Puja,16/10/2026,East India,Red Bull,High,1
+E028,Festival,Durga Puja,16/10/2026,East India,Ghee,High,1
+E028,Festival,Durga Puja,16/10/2026,East India,Sindoor,Medium,1
+E029,Festival,Dussehra,20/10/2026,All India,Fasting Food (Sabudana),High,0
+E029,Festival,Dussehra,20/10/2026,All India,Makhana,High,0
+E029,Festival,Dussehra,20/10/2026,All India,Dandiya Sticks,High,0
+E029,Festival,Dussehra,20/10/2026,All India,Sweets,High,0
+E029,Festival,Dussehra,20/10/2026,All India,Marigold Flowers,High,0
+E029,Festival,Dussehra,20/10/2026,All India,Pooja Items,High,0
+E029,Festival,Dussehra,20/10/2026,All India,Decorative Lights,Medium,0
+E029,Festival,Dussehra,20/10/2026,All India,Fresh Fruits,Medium,0
+E029,Festival,Dussehra,20/10/2026,All India,Safety Pins,Medium,0
+E029,Festival,Dussehra,20/10/2026,All India,Red Bull,High,0
+E029,Festival,Dussehra,20/10/2026,All India,Ghee,High,0
+E029,Festival,Dussehra,20/10/2026,All India,Sindoor,Medium,0
+E030,Festival,Karva Chauth,25/10/2026,North India,Mehendi Cones,High,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Pooja Thali,High,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Sweets,High,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Dry Fruits,Medium,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Sieve (Channi),High,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Incense Sticks,Medium,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Fresh Fruits,High,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Sindoor,Medium,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Bindi,Medium,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Fasting Food,Medium,1
+E030,Festival,Karva Chauth,25/10/2026,North India,Cosmetics/Lipstick,Low,1
+E031,Event,Winter Begins,01/11/2026,All India,Nivea Body Lotion,High,1
+E031,Event,Winter Begins,01/11/2026,All India,Vaseline,High,1
+E031,Event,Winter Begins,01/11/2026,All India,Nescafé,High,1
+E031,Event,Winter Begins,01/11/2026,All India,Taj Mahal Tea,High,1
+E031,Event,Winter Begins,01/11/2026,All India,Quaker Oats,Medium,1
+E031,Event,Winter Begins,01/11/2026,All India,Pond's Cold Cream,Medium,1
+E031,Event,Winter Begins,01/11/2026,All India,Bournvita,Medium,1
+E031,Event,Winter Begins,01/11/2026,All India,Chai Masala,High,1
+E031,Event,Winter Begins,01/11/2026,All India,Room Heaters,Low,1
+E031,Event,Winter Begins,01/11/2026,All India,Vicks VapoRub,High,1
+E032,Festival,Diwali,08/11/2026,All India,Dry Fruits,High,1
+E032,Festival,Diwali,08/11/2026,All India,Sweets,High,1
+E032,Festival,Diwali,08/11/2026,All India,Diyas,High,1
+E032,Festival,Diwali,08/11/2026,All India,Decorative Lights,High,1
+E032,Festival,Diwali,08/11/2026,All India,Rangoli Colours,High,1
+E032,Festival,Diwali,08/11/2026,All India,Pooja Material,High,1
+E032,Festival,Diwali,08/11/2026,All India,Ghee,Medium,1
+E032,Festival,Diwali,08/11/2026,All India,Candles,Medium,1
+E032,Festival,Diwali,08/11/2026,All India,Cadbury Celebrations,High,1
+E032,Festival,Diwali,08/11/2026,All India,Haldiram's Namkeen,Medium,1
+E032,Festival,Diwali,08/11/2026,All India,Camphor,Medium,1
+E032,Festival,Diwali,08/11/2026,All India,Marigold Flowers,High,1
+E033,Festival,Bhai Dooj,10/11/2026,All India,Rakhis,High,0
+E033,Festival,Bhai Dooj,10/11/2026,All India,Sweets,High,0
+E033,Festival,Bhai Dooj,10/11/2026,All India,Cadbury Celebrations,High,0
+E033,Festival,Bhai Dooj,10/11/2026,All India,Dry Fruits,Medium,0
+E033,Festival,Bhai Dooj,10/11/2026,All India,Roli Chawal,High,0
+E033,Festival,Bhai Dooj,10/11/2026,All India,Pooja Thali,Medium,0
+E033,Festival,Bhai Dooj,10/11/2026,All India,Gift Hampers,High,0
+E033,Festival,Bhai Dooj,10/11/2026,All India,Haldiram's Sweets,Medium,0
+E033,Festival,Bhai Dooj,10/11/2026,All India,Ferrero Rocher,Medium,0
+E033,Festival,Bhai Dooj,10/11/2026,All India,Mehndi Cones,Low,0
+E034,Festival,Chhath Puja,13/11/2026,East India,Sweets,High,1
+E034,Festival,Chhath Puja,13/11/2026,East India,Pooja Items,High,1
+E034,Festival,Chhath Puja,13/11/2026,East India,Incense Sticks,Medium,1
+E034,Festival,Chhath Puja,13/11/2026,East India,Flowers,High,1
+E034,Festival,Chhath Puja,13/11/2026,East India,Fresh Fruits,Medium,1
+E034,Festival,Chhath Puja,13/11/2026,East India,Coconuts,Medium,1
+E034,Festival,Chhath Puja,13/11/2026,East India,Ghee,Medium,1
+E034,Festival,Chhath Puja,13/11/2026,East India,Camphor,Medium,1
+E034,Festival,Chhath Puja,13/11/2026,East India,Dry Fruits,Medium,1
+E034,Festival,Chhath Puja,13/11/2026,East India,Cadbury Celebrations,Medium,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Nivea Body Lotion,High,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Vaseline,High,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Nescafé,High,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Taj Mahal Tea,High,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Quaker Oats,Medium,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Pond's Cold Cream,Medium,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Bournvita,Medium,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Chai Masala,High,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Room Heaters,Low,1
+E035,Event,Wedding Season (Winter),15/11/2026,All India,Vicks VapoRub,High,1
+E036,Event,Flu and Cold Season,01/12/2026,All India,Nivea Body Lotion,High,0
+E036,Event,Flu and Cold Season,01/12/2026,All India,Vaseline,High,0
+E036,Event,Flu and Cold Season,01/12/2026,All India,Nescafé,High,0
+E036,Event,Flu and Cold Season,01/12/2026,All India,Taj Mahal Tea,High,0
+E036,Event,Flu and Cold Season,01/12/2026,All India,Quaker Oats,Medium,0
+E036,Event,Flu and Cold Season,01/12/2026,All India,Pond's Cold Cream,Medium,0
+E036,Event,Flu and Cold Season,01/12/2026,All India,Bournvita,Medium,0
+E036,Event,Flu and Cold Season,01/12/2026,All India,Chai Masala,High,0
+E036,Event,Flu and Cold Season,01/12/2026,All India,Room Heaters,Low,0
+E036,Event,Flu and Cold Season,01/12/2026,All India,Vicks VapoRub,High,0
+E037,Event,Peak Winter,01/12/2026,All India,Nivea Body Lotion,High,0
+E037,Event,Peak Winter,01/12/2026,All India,Vaseline,High,0
+E037,Event,Peak Winter,01/12/2026,All India,Nescafé,High,0
+E037,Event,Peak Winter,01/12/2026,All India,Taj Mahal Tea,High,0
+E037,Event,Peak Winter,01/12/2026,All India,Quaker Oats,Medium,0
+E037,Event,Peak Winter,01/12/2026,All India,Pond's Cold Cream,Medium,0
+E037,Event,Peak Winter,01/12/2026,All India,Bournvita,Medium,0
+E037,Event,Peak Winter,01/12/2026,All India,Chai Masala,High,0
+E037,Event,Peak Winter,01/12/2026,All India,Room Heaters,Low,0
+E037,Event,Peak Winter,01/12/2026,All India,Vicks VapoRub,High,0
+E038,Event,Christmas Party Week,20/12/2026,All India,Coca-Cola,High,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Lay's,High,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Sprite,High,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Ice Cubes,High,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Frozen Pizza,High,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Doritos,Medium,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Party Poppers,Medium,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Paper Plates,High,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Disposable Glasses,High,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Tonic Water (Schweppes),Medium,1
+E038,Event,Christmas Party Week,20/12/2026,All India,Hershey's Kisses,Medium,1
+E039,Event,New Year Party Season,24/12/2026,All India,Coca-Cola,High,0
+E039,Event,New Year Party Season,24/12/2026,All India,Lay's,High,0
+E039,Event,New Year Party Season,24/12/2026,All India,Sprite,High,0
+E039,Event,New Year Party Season,24/12/2026,All India,Ice Cubes,High,0
+E039,Event,New Year Party Season,24/12/2026,All India,Frozen Pizza,High,0
+E039,Event,New Year Party Season,24/12/2026,All India,Doritos,Medium,0
+E039,Event,New Year Party Season,24/12/2026,All India,Party Poppers,Medium,0
+E039,Event,New Year Party Season,24/12/2026,All India,Paper Plates,High,0
+E039,Event,New Year Party Season,24/12/2026,All India,Disposable Glasses,High,0
+E039,Event,New Year Party Season,24/12/2026,All India,Tonic Water (Schweppes),Medium,0
+E039,Event,New Year Party Season,24/12/2026,All India,Hershey's Kisses,Medium,0
+E040,Festival,Christmas,25/12/2026,All India,Plum Cake,High,1
+E040,Festival,Christmas,25/12/2026,All India,Christmas Tree,High,1
+E040,Festival,Christmas,25/12/2026,All India,Ornaments,High,1
+E040,Festival,Christmas,25/12/2026,All India,Decorative Lights,High,1
+E040,Festival,Christmas,25/12/2026,All India,Chocolates,Medium,1
+E040,Festival,Christmas,25/12/2026,All India,Wine Glasses,Medium,1
+E040,Festival,Christmas,25/12/2026,All India,Candies,Medium,1
+E040,Festival,Christmas,25/12/2026,All India,Party Hats,Low,1
+E040,Festival,Christmas,25/12/2026,All India,Cookies,High,1
+E040,Festival,Christmas,25/12/2026,All India,Candles,Medium,1
+E041,Festival,New Year's Day,01/01/2027,All India,Sweets,High,1
+E041,Festival,New Year's Day,01/01/2027,All India,Pooja Items,High,1
+E041,Festival,New Year's Day,01/01/2027,All India,Incense Sticks,Medium,1
+E041,Festival,New Year's Day,01/01/2027,All India,Flowers,High,1
+E041,Festival,New Year's Day,01/01/2027,All India,Fresh Fruits,Medium,1
+E041,Festival,New Year's Day,01/01/2027,All India,Coconuts,Medium,1
+E041,Festival,New Year's Day,01/01/2027,All India,Ghee,Medium,1
+E041,Festival,New Year's Day,01/01/2027,All India,Camphor,Medium,1
+E041,Festival,New Year's Day,01/01/2027,All India,Dry Fruits,Medium,1
+E041,Festival,New Year's Day,01/01/2027,All India,Cadbury Celebrations,Medium,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Coca-Cola,High,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Lay's,High,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Sprite,High,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Ice Cubes,High,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Frozen Pizza,High,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Doritos,Medium,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Party Poppers,Medium,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Paper Plates,High,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Disposable Glasses,High,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Tonic Water (Schweppes),Medium,1
+E042,Event,New Year Resolution/Fitness Season,01/01/2027,All India,Hershey's Kisses,Medium,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Quaker Oats,High,1
+E043,Event,Weight Loss Season,01/01/2027,All India,MuscleBlaze Whey,High,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Alpino Peanut Butter,High,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Yogabar,Medium,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Lipton Green Tea,High,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Eggs,High,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Chicken Breast,High,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Almonds,Medium,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Epigamia Greek Yogurt,Medium,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Gatorade,High,1
+E043,Event,Weight Loss Season,01/01/2027,All India,Enerzal,Medium,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Quaker Oats,High,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,MuscleBlaze Whey,High,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Alpino Peanut Butter,High,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Yogabar,Medium,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Lipton Green Tea,High,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Eggs,High,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Chicken Breast,High,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Almonds,Medium,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Epigamia Greek Yogurt,Medium,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Gatorade,High,1
+E044,Event,Gym Membership Peak,01/01/2027,All India,Enerzal,Medium,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Coca-Cola,Medium,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Lay's,Medium,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Maggi,Medium,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Red Bull,Low,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Amul Ice Cream,Medium,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Cadbury Dairy Milk,Medium,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Nescafé,Low,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Frozen Pizza,Low,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Electral ORS,Low,1
+E045,Event,Tax Saving Season,01/01/2027,All India,Dettol Handwash,Low,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Pampers,High,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Huggies,High,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Johnson's Baby Wipes,High,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Sebamed Baby Wash,Medium,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Cerelac,High,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Mamaearth Baby Lotion,Medium,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Thermometer,High,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Dettol,Medium,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Baby Powder,Medium,1
+E046,Event,Baby Care Vaccination Drive Season,01/01/2027,All India,Cotton Rolls,Medium,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Surf Excel,High,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Harpic,High,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Lizol,High,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Scotch Brite,High,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Dettol Soap,High,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Colgate,High,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Godrej Aer,Medium,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Garbage Bags,High,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Maggi,High,1
+E047,Event,Back to Office After Holidays,02/01/2027,All India,Paper Boat Juices,Medium,1
+E048,Festival,Lohri,13/01/2027,North India,Peanuts,High,0
+E048,Festival,Lohri,13/01/2027,North India,Jaggery,High,0
+E048,Festival,Lohri,13/01/2027,North India,Popcorn,High,0
+E048,Festival,Lohri,13/01/2027,North India,Sesame Sweets (Til Ladoo),High,0
+E048,Festival,Lohri,13/01/2027,North India,Kites,High,0
+E048,Festival,Lohri,13/01/2027,North India,Thread (Manja),High,0
+E048,Festival,Lohri,13/01/2027,North India,Rewari,High,0
+E048,Festival,Lohri,13/01/2027,North India,Gajak,High,0
+E048,Festival,Lohri,13/01/2027,North India,Rice,High,0
+E048,Festival,Lohri,13/01/2027,North India,Sugar Cane,High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Peanuts,High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Jaggery,High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Popcorn,High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Sesame Sweets (Til Ladoo),High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Kites,High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Thread (Manja),High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Rewari,High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Gajak,High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Rice,High,0
+E049,Festival,Makar Sankranti,14/01/2027,All India,Sugar Cane,High,0
+E050,Festival,Pongal,14/01/2027,South India,Peanuts,High,0
+E050,Festival,Pongal,14/01/2027,South India,Jaggery,High,0
+E050,Festival,Pongal,14/01/2027,South India,Popcorn,High,0
+E050,Festival,Pongal,14/01/2027,South India,Sesame Sweets (Til Ladoo),High,0
+E050,Festival,Pongal,14/01/2027,South India,Kites,High,0
+E050,Festival,Pongal,14/01/2027,South India,Thread (Manja),High,0
+E050,Festival,Pongal,14/01/2027,South India,Rewari,High,0
+E050,Festival,Pongal,14/01/2027,South India,Gajak,High,0
+E050,Festival,Pongal,14/01/2027,South India,Rice,High,0
+E050,Festival,Pongal,14/01/2027,South India,Sugar Cane,High,0
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Coca-Cola,Medium,1
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Lay's,Medium,1
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Maggi,Medium,1
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Red Bull,Low,1
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Amul Ice Cream,Medium,1
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Cadbury Dairy Milk,Medium,1
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Nescafé,Low,1
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Frozen Pizza,Low,1
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Electral ORS,Low,1
+E051,Event,Corporate Appraisal Season,15/01/2027,Metro Cities,Dettol Handwash,Low,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Nescafé,High,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Maggi,High,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Classmate Notebooks,High,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Red Bull,High,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Oreo,Medium,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Reynolds Pens,High,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Good Day,Medium,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Bru,Medium,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Highlighters,Medium,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Milton Water Bottles,Medium,1
+E052,Event,Exam Preparation Season (Boards/JEE/NEET),15/01/2027,All India,Monster Energy,Low,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Quaker Oats,High,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,MuscleBlaze Whey,High,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Alpino Peanut Butter,High,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Yogabar,Medium,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Lipton Green Tea,High,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Eggs,High,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Chicken Breast,High,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Almonds,Medium,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Epigamia Greek Yogurt,Medium,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Gatorade,High,1
+E053,Event,Marathon/Running Season,15/01/2027,All India,Enerzal,Medium,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Coca-Cola,Medium,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Lay's,Medium,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Maggi,Medium,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Red Bull,Low,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Amul Ice Cream,Medium,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Cadbury Dairy Milk,Medium,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Nescafé,Low,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Frozen Pizza,Low,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Electral ORS,Low,1
+E054,Event,Bonus/Payout Season,31/01/2027,All India,Dettol Handwash,Low,1
+E055,Event,Competitive Exam Season,01/02/2027,All India,Nescafé,High,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Maggi,High,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Classmate Notebooks,High,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Red Bull,High,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Oreo,Medium,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Reynolds Pens,High,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Good Day,Medium,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Bru,Medium,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Highlighters,Medium,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Milton Water Bottles,Medium,0
+E055,Event,Competitive Exam Season,01/02/2027,All India,Monster Energy,Low,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Sweets,High,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Pooja Items,High,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Incense Sticks,Medium,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Flowers,High,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Fresh Fruits,Medium,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Coconuts,Medium,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Ghee,Medium,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Camphor,Medium,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Dry Fruits,Medium,0
+E056,Festival,Vasant Panchami,11/02/2027,North India,Cadbury Celebrations,Medium,0
+E057,Event,Valentine's Day,14/02/2027,All India,Coca-Cola,Medium,1
+E057,Event,Valentine's Day,14/02/2027,All India,Lay's,Medium,1
+E057,Event,Valentine's Day,14/02/2027,All India,Maggi,Medium,1
+E057,Event,Valentine's Day,14/02/2027,All India,Red Bull,Low,1
+E057,Event,Valentine's Day,14/02/2027,All India,Amul Ice Cream,Medium,1
+E057,Event,Valentine's Day,14/02/2027,All India,Cadbury Dairy Milk,Medium,1
+E057,Event,Valentine's Day,14/02/2027,All India,Nescafé,Low,1
+E057,Event,Valentine's Day,14/02/2027,All India,Frozen Pizza,Low,1
+E057,Event,Valentine's Day,14/02/2027,All India,Electral ORS,Low,1
+E057,Event,Valentine's Day,14/02/2027,All India,Dettol Handwash,Low,1
+E058,Event,Board Examination Season,15/02/2027,All India,Nescafé,High,0
+E058,Event,Board Examination Season,15/02/2027,All India,Maggi,High,0
+E058,Event,Board Examination Season,15/02/2027,All India,Classmate Notebooks,High,0
+E058,Event,Board Examination Season,15/02/2027,All India,Red Bull,High,0
+E058,Event,Board Examination Season,15/02/2027,All India,Oreo,Medium,0
+E058,Event,Board Examination Season,15/02/2027,All India,Reynolds Pens,High,0
+E058,Event,Board Examination Season,15/02/2027,All India,Good Day,Medium,0
+E058,Event,Board Examination Season,15/02/2027,All India,Bru,Medium,0
+E058,Event,Board Examination Season,15/02/2027,All India,Highlighters,Medium,0
+E058,Event,Board Examination Season,15/02/2027,All India,Milton Water Bottles,Medium,0
+E058,Event,Board Examination Season,15/02/2027,All India,Monster Energy,Low,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Lay's,High,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Coca-Cola,High,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Red Bull,High,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Doritos,High,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Frozen Pizza,High,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Popcorn,High,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Thums Up,Medium,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,McCain Smiles,Medium,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Amul Ice Cream,Medium,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Kurkure,Medium,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Sprite,Medium,0
+E059,Event,IPL Auction Buzz,15/02/2027,Metro Cities,Bikaneri Bhujia,Low,0
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Lay's,High,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Coca-Cola,High,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Red Bull,High,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Doritos,High,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Frozen Pizza,High,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Popcorn,High,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Thums Up,Medium,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,McCain Smiles,Medium,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Amul Ice Cream,Medium,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Kurkure,Medium,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Sprite,Medium,1
+E060,Event,India vs Pakistan Cricket Match Windows,20/02/2027,All India,Bikaneri Bhujia,Low,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Coca-Cola,Medium,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Lay's,Medium,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Maggi,Medium,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Red Bull,Low,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Amul Ice Cream,Medium,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Cadbury Dairy Milk,Medium,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Nescafé,Low,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Frozen Pizza,Low,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Electral ORS,Low,1
+E061,Event,ICC Tournament Windows,20/02/2027,All India,Dettol Handwash,Low,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Milk,High,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Bel Patra,High,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Fresh Fruits,Medium,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Sweets,Medium,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Incense Sticks,Medium,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Coconuts,High,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Fasting Food (Sabudana),High,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Camphor,High,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Honey,Medium,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Ghee,Medium,1
+E062,Festival,Maha Shivaratri,06/03/2027,All India,Dhatura,Medium,1
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Dates,High,0
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Vermicelli (Sewai),High,0
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Sugar,High,0
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Dry Fruits,High,0
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Milk,High,0
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Ghee,Medium,0
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Sweets,Medium,0
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Attar (Perfume),Medium,0
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Rose Water,Medium,0
+E063,Festival,Eid al-Fitr,10/03/2027,All India,Gift Envelopes (Eidi),High,0
+E064,Event,Summer Begins,15/03/2027,All India,Electral ORS,High,0
+E064,Event,Summer Begins,15/03/2027,All India,Glucon-D,High,0
+E064,Event,Summer Begins,15/03/2027,All India,Frooti,High,0
+E064,Event,Summer Begins,15/03/2027,All India,Amul Ice Cream,High,0
+E064,Event,Summer Begins,15/03/2027,All India,Tender Coconut Water,High,0
+E064,Event,Summer Begins,15/03/2027,All India,Kinley Soda,Medium,0
+E064,Event,Summer Begins,15/03/2027,All India,Paper Boat Aamras,Medium,0
+E064,Event,Summer Begins,15/03/2027,All India,Rooh Afza,High,0
+E064,Event,Summer Begins,15/03/2027,All India,Watermelon,High,0
+E064,Event,Summer Begins,15/03/2027,All India,Alphonso Mangoes,High,0
+E064,Event,Summer Begins,15/03/2027,All India,Sprite,Medium,0
+E064,Event,Summer Begins,15/03/2027,All India,Gatorade,Low,0
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Lay's,High,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Coca-Cola,High,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Red Bull,High,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Doritos,High,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Frozen Pizza,High,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Popcorn,High,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Thums Up,Medium,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,McCain Smiles,Medium,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Amul Ice Cream,Medium,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Kurkure,Medium,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Sprite,Medium,1
+E065,Event,IPL Season Begins,20/03/2027,Metro Cities,Bikaneri Bhujia,Low,1
+E066,Festival,Holi,23/03/2027,All India,Gulal,High,0
+E066,Festival,Holi,23/03/2027,All India,Water Balloons,High,0
+E066,Festival,Holi,23/03/2027,All India,Gujiya,High,0
+E066,Festival,Holi,23/03/2027,All India,Haldiram's Namkeen,Medium,0
+E066,Festival,Holi,23/03/2027,All India,Water Guns (Pichkari),High,0
+E066,Festival,Holi,23/03/2027,All India,Sweets,Medium,0
+E066,Festival,Holi,23/03/2027,All India,Thandai Mix,High,0
+E066,Festival,Holi,23/03/2027,All India,Skin Safe Colors,High,0
+E066,Festival,Holi,23/03/2027,All India,Coconut Oil,Medium,0
+E066,Festival,Holi,23/03/2027,All India,White T-shirts,Low,0
+E066,Festival,Holi,23/03/2027,All India,Frooti,Medium,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Lay's,High,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Coca-Cola,High,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Red Bull,High,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Doritos,High,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Frozen Pizza,High,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Popcorn,High,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Thums Up,Medium,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,McCain Smiles,Medium,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Amul Ice Cream,Medium,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Kurkure,Medium,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Sprite,Medium,0
+E067,Event,IPL Weekend Double-Headers,01/04/2027,Metro Cities,Bikaneri Bhujia,Low,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Electral ORS,High,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Glucon-D,High,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Frooti,High,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Amul Ice Cream,High,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Tender Coconut Water,High,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Kinley Soda,Medium,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Paper Boat Aamras,Medium,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Rooh Afza,High,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Watermelon,High,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Alphonso Mangoes,High,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Sprite,Medium,0
+E068,Event,Peak Summer Heat,01/04/2027,All India,Gatorade,Low,0
+E069,Event,Mango Season,01/04/2027,All India,Electral ORS,High,0
+E069,Event,Mango Season,01/04/2027,All India,Glucon-D,High,0
+E069,Event,Mango Season,01/04/2027,All India,Frooti,High,0
+E069,Event,Mango Season,01/04/2027,All India,Amul Ice Cream,High,0
+E069,Event,Mango Season,01/04/2027,All India,Tender Coconut Water,High,0
+E069,Event,Mango Season,01/04/2027,All India,Kinley Soda,Medium,0
+E069,Event,Mango Season,01/04/2027,All India,Paper Boat Aamras,Medium,0
+E069,Event,Mango Season,01/04/2027,All India,Rooh Afza,High,0
+E069,Event,Mango Season,01/04/2027,All India,Watermelon,High,0
+E069,Event,Mango Season,01/04/2027,All India,Alphonso Mangoes,High,0
+E069,Event,Mango Season,01/04/2027,All India,Sprite,Medium,0
+E069,Event,Mango Season,01/04/2027,All India,Gatorade,Low,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Coca-Cola,Medium,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Lay's,Medium,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Maggi,Medium,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Red Bull,Low,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Amul Ice Cream,Medium,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Cadbury Dairy Milk,Medium,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Nescafé,Low,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Frozen Pizza,Low,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Electral ORS,Low,0
+E070,Event,Ice Cream Peak Season,01/04/2027,All India,Dettol Handwash,Low,0
+E071,Event,Hydration Season,01/04/2027,All India,Electral ORS,High,0
+E071,Event,Hydration Season,01/04/2027,All India,Glucon-D,High,0
+E071,Event,Hydration Season,01/04/2027,All India,Frooti,High,0
+E071,Event,Hydration Season,01/04/2027,All India,Amul Ice Cream,High,0
+E071,Event,Hydration Season,01/04/2027,All India,Tender Coconut Water,High,0
+E071,Event,Hydration Season,01/04/2027,All India,Kinley Soda,Medium,0
+E071,Event,Hydration Season,01/04/2027,All India,Paper Boat Aamras,Medium,0
+E071,Event,Hydration Season,01/04/2027,All India,Rooh Afza,High,0
+E071,Event,Hydration Season,01/04/2027,All India,Watermelon,High,0
+E071,Event,Hydration Season,01/04/2027,All India,Alphonso Mangoes,High,0
+E071,Event,Hydration Season,01/04/2027,All India,Sprite,Medium,0
+E071,Event,Hydration Season,01/04/2027,All India,Gatorade,Low,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Pedigree,High,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Whiskas,High,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Drools,Medium,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Dog Treats (Meat Jerky),High,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Cat Litter,High,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Pet Shampoo,Medium,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Tick Spray,High,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Chew Toys,Medium,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Lint Roller,Low,0
+E072,Event,Pet Adoption and Pet Care Drive Season,01/04/2027,All India,Pet Wipes,Medium,0
+E073,Festival,Ugadi,08/04/2027,South India,Sweets,High,0
+E073,Festival,Ugadi,08/04/2027,South India,Pooja Items,High,0
+E073,Festival,Ugadi,08/04/2027,South India,Incense Sticks,Medium,0
+E073,Festival,Ugadi,08/04/2027,South India,Flowers,High,0
+E073,Festival,Ugadi,08/04/2027,South India,Fresh Fruits,Medium,0
+E073,Festival,Ugadi,08/04/2027,South India,Coconuts,Medium,0
+E073,Festival,Ugadi,08/04/2027,South India,Ghee,Medium,0
+E073,Festival,Ugadi,08/04/2027,South India,Camphor,Medium,0
+E073,Festival,Ugadi,08/04/2027,South India,Dry Fruits,Medium,0
+E073,Festival,Ugadi,08/04/2027,South India,Cadbury Celebrations,Medium,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Sweets,High,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Pooja Items,High,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Incense Sticks,Medium,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Flowers,High,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Fresh Fruits,Medium,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Coconuts,Medium,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Ghee,Medium,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Camphor,Medium,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Dry Fruits,Medium,0
+E074,Festival,Gudi Padwa,08/04/2027,West India,Cadbury Celebrations,Medium,0
+E075,Festival,Baisakhi,14/04/2027,North India,Sweets,High,0
+E075,Festival,Baisakhi,14/04/2027,North India,Pooja Items,High,0
+E075,Festival,Baisakhi,14/04/2027,North India,Incense Sticks,Medium,0
+E075,Festival,Baisakhi,14/04/2027,North India,Flowers,High,0
+E075,Festival,Baisakhi,14/04/2027,North India,Fresh Fruits,Medium,0
+E075,Festival,Baisakhi,14/04/2027,North India,Coconuts,Medium,0
+E075,Festival,Baisakhi,14/04/2027,North India,Ghee,Medium,0
+E075,Festival,Baisakhi,14/04/2027,North India,Camphor,Medium,0
+E075,Festival,Baisakhi,14/04/2027,North India,Dry Fruits,Medium,0
+E075,Festival,Baisakhi,14/04/2027,North India,Cadbury Celebrations,Medium,0
+E076,Festival,Ram Navami,15/04/2027,All India,Sweets,High,0
+E076,Festival,Ram Navami,15/04/2027,All India,Pooja Items,High,0
+E076,Festival,Ram Navami,15/04/2027,All India,Incense Sticks,Medium,0
+E076,Festival,Ram Navami,15/04/2027,All India,Flowers,High,0
+E076,Festival,Ram Navami,15/04/2027,All India,Fresh Fruits,Medium,0
+E076,Festival,Ram Navami,15/04/2027,All India,Coconuts,Medium,0
+E076,Festival,Ram Navami,15/04/2027,All India,Ghee,Medium,0
+E076,Festival,Ram Navami,15/04/2027,All India,Camphor,Medium,0
+E076,Festival,Ram Navami,15/04/2027,All India,Dry Fruits,Medium,0
+E076,Festival,Ram Navami,15/04/2027,All India,Cadbury Celebrations,Medium,0
+E077,Event,Heatwave Season,15/04/2027,All India,Electral ORS,High,0
+E077,Event,Heatwave Season,15/04/2027,All India,Glucon-D,High,0
+E077,Event,Heatwave Season,15/04/2027,All India,Frooti,High,0
+E077,Event,Heatwave Season,15/04/2027,All India,Amul Ice Cream,High,0
+E077,Event,Heatwave Season,15/04/2027,All India,Tender Coconut Water,High,0
+E077,Event,Heatwave Season,15/04/2027,All India,Kinley Soda,Medium,0
+E077,Event,Heatwave Season,15/04/2027,All India,Paper Boat Aamras,Medium,0
+E077,Event,Heatwave Season,15/04/2027,All India,Rooh Afza,High,0
+E077,Event,Heatwave Season,15/04/2027,All India,Watermelon,High,0
+E077,Event,Heatwave Season,15/04/2027,All India,Alphonso Mangoes,High,0
+E077,Event,Heatwave Season,15/04/2027,All India,Sprite,Medium,0
+E077,Event,Heatwave Season,15/04/2027,All India,Gatorade,Low,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Travel Minis (Toothpaste/Shampoo),High,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Hand Sanitizer,High,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Wet Wipes,High,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Neck Pillow,Medium,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Lay's,High,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Kurkure,High,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Frooti,Medium,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Neutrogena Sunscreen,High,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Paper Boat Juices,Medium,0
+E078,Event,Hill Station Tourism Peak,15/04/2027,All India,Electral ORS,Medium,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Travel Minis (Toothpaste/Shampoo),High,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Hand Sanitizer,High,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Wet Wipes,High,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Neck Pillow,Medium,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Lay's,High,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Kurkure,High,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Frooti,Medium,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Neutrogena Sunscreen,High,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Paper Boat Juices,Medium,0
+E079,Event,Beach Tourism Peak,15/04/2027,All India,Electral ORS,Medium,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Travel Minis (Toothpaste/Shampoo),High,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Hand Sanitizer,High,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Wet Wipes,High,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Neck Pillow,Medium,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Lay's,High,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Kurkure,High,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Frooti,Medium,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Neutrogena Sunscreen,High,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Paper Boat Juices,Medium,0
+E080,Event,Pilgrimage Travel Season,15/04/2027,All India,Electral ORS,Medium,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Electral ORS,High,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Glucon-D,High,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Frooti,High,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Amul Ice Cream,High,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Tender Coconut Water,High,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Kinley Soda,Medium,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Paper Boat Aamras,Medium,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Rooh Afza,High,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Watermelon,High,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Alphonso Mangoes,High,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Sprite,Medium,0
+E081,Event,Wedding Season (Summer),20/04/2027,All India,Gatorade,Low,0
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Coca-Cola,Medium,1
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Lay's,Medium,1
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Maggi,Medium,1
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Red Bull,Low,1
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Amul Ice Cream,Medium,1
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Cadbury Dairy Milk,Medium,1
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Nescafé,Low,1
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Frozen Pizza,Low,1
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Electral ORS,Low,1
+E082,Event,Char Dham Yatra Season,30/04/2027,North India,Dettol Handwash,Low,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Electral ORS,High,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Glucon-D,High,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Frooti,High,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Amul Ice Cream,High,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Tender Coconut Water,High,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Kinley Soda,Medium,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Paper Boat Aamras,Medium,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Rooh Afza,High,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Watermelon,High,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Alphonso Mangoes,High,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Sprite,Medium,1
+E083,Event,Summer Vacation Season,01/05/2027,All India,Gatorade,Low,1
+E084,Festival,Mother's Day,09/05/2027,All India,Sweets,High,1
+E084,Festival,Mother's Day,09/05/2027,All India,Pooja Items,High,1
+E084,Festival,Mother's Day,09/05/2027,All India,Incense Sticks,Medium,1
+E084,Festival,Mother's Day,09/05/2027,All India,Flowers,High,1
+E084,Festival,Mother's Day,09/05/2027,All India,Fresh Fruits,Medium,1
+E084,Festival,Mother's Day,09/05/2027,All India,Coconuts,Medium,1
+E084,Festival,Mother's Day,09/05/2027,All India,Ghee,Medium,1
+E084,Festival,Mother's Day,09/05/2027,All India,Camphor,Medium,1
+E084,Festival,Mother's Day,09/05/2027,All India,Dry Fruits,Medium,1
+E084,Festival,Mother's Day,09/05/2027,All India,Cadbury Celebrations,Medium,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Surf Excel,High,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Harpic,High,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Lizol,High,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Scotch Brite,High,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Dettol Soap,High,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Colgate,High,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Godrej Aer,Medium,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Garbage Bags,High,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Maggi,High,1
+E085,Event,Apartment Relocation Season,15/05/2027,Metro Cities,Paper Boat Juices,Medium,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Coca-Cola,Medium,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Lay's,Medium,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Maggi,Medium,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Red Bull,Low,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Amul Ice Cream,Medium,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Cadbury Dairy Milk,Medium,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Nescafé,Low,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Frozen Pizza,Low,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Electral ORS,Low,1
+E086,Event,PG Shifting Season,15/05/2027,Metro Cities,Dettol Handwash,Low,1
+E087,Event,Home Moving Season,15/05/2027,All India,Surf Excel,High,1
+E087,Event,Home Moving Season,15/05/2027,All India,Harpic,High,1
+E087,Event,Home Moving Season,15/05/2027,All India,Lizol,High,1
+E087,Event,Home Moving Season,15/05/2027,All India,Scotch Brite,High,1
+E087,Event,Home Moving Season,15/05/2027,All India,Dettol Soap,High,1
+E087,Event,Home Moving Season,15/05/2027,All India,Colgate,High,1
+E087,Event,Home Moving Season,15/05/2027,All India,Godrej Aer,Medium,1
+E087,Event,Home Moving Season,15/05/2027,All India,Garbage Bags,High,1
+E087,Event,Home Moving Season,15/05/2027,All India,Maggi,High,1
+E087,Event,Home Moving Season,15/05/2027,All India,Paper Boat Juices,Medium,1
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Lay's,High,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Coca-Cola,High,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Red Bull,High,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Doritos,High,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Frozen Pizza,High,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Popcorn,High,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Thums Up,Medium,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,McCain Smiles,Medium,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Amul Ice Cream,Medium,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Kurkure,Medium,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Sprite,Medium,0
+E088,Event,IPL Playoffs,20/05/2027,Metro Cities,Bikaneri Bhujia,Low,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Lay's,High,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Coca-Cola,High,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Red Bull,High,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Doritos,High,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Frozen Pizza,High,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Popcorn,High,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Thums Up,Medium,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,McCain Smiles,Medium,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Amul Ice Cream,Medium,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Kurkure,Medium,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Sprite,Medium,0
+E089,Event,IPL Final Week,25/05/2027,Metro Cities,Bikaneri Bhujia,Low,0
+E090,Festival,Father's Day,20/06/2027,All India,Sweets,High,1
+E090,Festival,Father's Day,20/06/2027,All India,Pooja Items,High,1
+E090,Festival,Father's Day,20/06/2027,All India,Incense Sticks,Medium,1
+E090,Festival,Father's Day,20/06/2027,All India,Flowers,High,1
+E090,Festival,Father's Day,20/06/2027,All India,Fresh Fruits,Medium,1
+E090,Festival,Father's Day,20/06/2027,All India,Coconuts,Medium,1
+E090,Festival,Father's Day,20/06/2027,All India,Ghee,Medium,1
+E090,Festival,Father's Day,20/06/2027,All India,Camphor,Medium,1
+E090,Festival,Father's Day,20/06/2027,All India,Dry Fruits,Medium,1
+E090,Festival,Father's Day,20/06/2027,All India,Cadbury Celebrations,Medium,1
